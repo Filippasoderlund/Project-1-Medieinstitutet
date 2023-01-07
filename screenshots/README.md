@@ -1,3 +1,7 @@
-I den här mappen sparar du skärmdumpar från respektive webbläsare, som visar att sajten fungerar och ser bra ut i de olika webbläsarna.
+Detta är den första uppgiften för html och css kursen på medieinstitutet genomförd oktober 2022
 
-OBS! Har du Windows ska du _inte_ ladda ner Safari.
+I uppgiften har vi fått önskemål att skapa en webbsida med hjälp av html och css efter kunds önskemål. Detta blev mitt resultat. 
+
+![Screenshot](/screenshots/edge/desktop-meny.pngdesktop-meny.png)
+![Screenshot](/screenshots/edge/desktop2.png)
+![Screenshot](/screenshots/edge/desktop.png)
